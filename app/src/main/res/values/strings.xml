@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomContentProvider</string>
+    <string name="meaning">Meaning</string>
+    <string name="name">Name</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="insert">Insert</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
